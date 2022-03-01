@@ -1,11 +1,13 @@
 # 4-1-MUX-using-Transmission-Gate
 # Table of Contents
-* [Introduction](https://github.com/Atri21/Design-and-implementation-of-4-1-MUX/blob/main/README.md#introduction)
-* [Tools Used](https://github.com/Atri21/Design-and-implementation-of-4-1-MUX/blob/main/README.md#tools-used)
-* [Working](https://github.com/Atri21/Design-and-implementation-of-4-1-MUX/blob/main/README.md#working)
-* [Netlist](https://github.com/Atri21/Design-and-implementation-of-4-1-MUX/blob/main/README.md#generated-netlist)
-* [Acknowledgements](https://github.com/Atri21/Design-and-implementation-of-4-1-MUX/blob/main/README.md#acknowledgements)
-* [References](https://github.com/Atri21/Design-and-implementation-of-4-1-MUX/blob/main/README.md#refrences)
+* [Introduction](https://github.com/Atri21/4-1-MUX-using-Transmission-Gate/blob/main/README.md#introduction)
+* [Tools Used](https://github.com/Atri21/4-1-MUX-using-Transmission-Gate/blob/main/README.md#tools-used)
+* [Working](https://github.com/Atri21/4-1-MUX-using-Transmission-Gate/blob/main/README.md#working)
+* [Inverter](https://github.com/Atri21/4-1-MUX-using-Transmission-Gate/blob/main/README.md#inverter)
+* [Tristate Inverter](https://github.com/Atri21/4-1-MUX-using-Transmission-Gate/blob/main/README.md#tristate)
+* [Transmission Gate](https://github.com/Atri21/4-1-MUX-using-Transmission-Gate/blob/main/README.md#transmission-gate)
+* [4-1 MUX](https://github.com/Atri21/4-1-MUX-using-Transmission-Gate/blob/main/README.md#4-1-mux-using-transmission-gate-1)
+* [4-1 MUX Netlist](https://github.com/Atri21/4-1-MUX-using-Transmission-Gate/blob/main/README.md#4-1-mux-netlist)
 
 # Introduction
 The design proposed here is a 4:1 MUX using transmission gate. We implement this using 28nm technology in Synopsis tool. As the MUX we design invloves more inputs, it becomes more complex to build it in traditional way, so designing them using transmission gates is better and in order to fully utilize the power, area and cost advantages of CMOS over SiGe and another semiconductor technology, these circuits must be integrated on one chip. 
@@ -28,7 +30,7 @@ A multiplexer, also known as a data selector, is a device that selects between s
 
      ![Screenshot (70)](https://user-images.githubusercontent.com/99316485/156164965-e95902c3-eec2-4b23-8355-a4151d27bcb0.png)
 
-# Tristate 
+# Tristate Inverter
 
 * Tristate inverter symbol
 
@@ -68,7 +70,7 @@ A multiplexer, also known as a data selector, is a device that selects between s
 
      ![Screenshot (81)](https://user-images.githubusercontent.com/99316485/156169775-6690ec92-87b5-47e9-9840-866748920ce9.png)
 
-# 4-1 MUX using transmission gate
+# 4-1 MUX 
 
 * 4 : 1 MUX symbol
 
