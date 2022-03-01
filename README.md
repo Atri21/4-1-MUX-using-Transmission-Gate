@@ -4,9 +4,9 @@
 * [Tools Used](https://github.com/Atri21/4-1-MUX-using-Transmission-Gate/blob/main/README.md#tools-used)
 * [Working](https://github.com/Atri21/4-1-MUX-using-Transmission-Gate/blob/main/README.md#working)
 * [Inverter](https://github.com/Atri21/4-1-MUX-using-Transmission-Gate/blob/main/README.md#inverter)
-* [Tristate Inverter](https://github.com/Atri21/4-1-MUX-using-Transmission-Gate/blob/main/README.md#tristate)
+* [Tristate Inverter](https://github.com/Atri21/4-1-MUX-using-Transmission-Gate/blob/main/README.md#tristate-inverter)
 * [Transmission Gate](https://github.com/Atri21/4-1-MUX-using-Transmission-Gate/blob/main/README.md#transmission-gate)
-* [4-1 MUX](https://github.com/Atri21/4-1-MUX-using-Transmission-Gate/blob/main/README.md#4-1-mux-using-transmission-gate-1)
+* [4-1 MUX](https://github.com/Atri21/4-1-MUX-using-Transmission-Gate/blob/main/README.md#4-1-mux)
 * [4-1 MUX Netlist](https://github.com/Atri21/4-1-MUX-using-Transmission-Gate/blob/main/README.md#4-1-mux-netlist)
 
 # Introduction
