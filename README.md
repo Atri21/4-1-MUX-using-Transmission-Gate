@@ -1,4 +1,5 @@
 # 4-1-MUX-using-Transmission-Gate
+## [Design-and-implementation-of-4-1-mux-on-cmos-28nm-technology](https://github.com/Atri21/Design-and-implementation-of-4-1-MUX#design-and-implementation-of-4-1-mux-on-cmos-28nm-technology)
 # Table of Contents
 * [Introduction](https://github.com/Atri21/4-1-MUX-using-Transmission-Gate/blob/main/README.md#introduction)
 * [Tools Used](https://github.com/Atri21/4-1-MUX-using-Transmission-Gate/blob/main/README.md#tools-used)
